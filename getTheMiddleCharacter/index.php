@@ -1,5 +1,5 @@
 <?php
-    $text = "yout";
+    $text = "test";
     function getTheMiddleCharacter($text){
         $len = strlen($text);
         if($len%2 == 0){

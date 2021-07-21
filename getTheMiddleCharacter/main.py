@@ -1,4 +1,4 @@
-text = 'youtdj'
+text = 'test'
 length = len(text)
 def midChar():
     print("")

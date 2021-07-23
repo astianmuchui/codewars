@@ -1,5 +1,5 @@
-n=0
-m=1
+n=12
+m=48
 def splitChocolate():
    print("")
 if n*m<1:
